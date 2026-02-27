@@ -1,0 +1,7 @@
+{
+  "env": {
+    "JWT_KEY": "secret",
+    "EMAIL_USER": "yourgmail@gmail.com",
+    "EMAIL_PASS": "app-password-gmail"
+  }
+}
